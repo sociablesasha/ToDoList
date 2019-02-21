@@ -1,3 +1,8 @@
+# ToDoList
+React를 공부하면서 만든 간단한 애플리케이션이다.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
