@@ -1,15 +1,16 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+    "manifest_version": 2,
+    "name": "ToDoList",
+    "version": "1.0",
+    "description": "ToDoList",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "favicon.ico",
+        "48": "favicon.ico",
+        "128": "favicon.ico"
+    },
+    "permissions": [
+    ]
 }
